@@ -6,7 +6,6 @@
 // 			        - Shadowing
 // 			 - Constants
 // -------------------------------------------------
-
 fn main() {
     // Definition
     let x = 10;
